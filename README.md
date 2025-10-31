@@ -45,7 +45,7 @@ npm install
 npm run dev
 ```
 
-Abra http://localhost:3000 no seu navegador.
+Abra http://localhost:5173 no seu navegador.
 
 ## 🎯 Funcionalidades
 
