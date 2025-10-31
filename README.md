@@ -33,7 +33,7 @@ Pré-requisitos
 
 ```bash
 # Clone o repositório
-git clone https://github.com/beeleza/cryptfy.git
+git clone https://github.com/beeleza/cryptify.git
 
 # Entre no diretório
 cd cryptfy
