@@ -1,6 +1,6 @@
 # CryptiFY 🔒
 
-<img src="https://img.shields.io/badge/CryptFY-Password_Generator-blue" />
+<img src="https://img.shields.io/badge/CryptiFY-Password_Generator-blue" />
 <img src="https://img.shields.io/badge/License-MIT-green" />
 <img src="https://img.shields.io/badge/Open%2520Source-100%2525-brightgreen" />
 
@@ -36,7 +36,7 @@ Pré-requisitos
 git clone https://github.com/beeleza/cryptify.git
 
 # Entre no diretório
-cd cryptfy
+cd cryptify
 
 # Instale as dependências
 npm install
