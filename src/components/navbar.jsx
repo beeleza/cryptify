@@ -6,7 +6,11 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto flex items-center justify-between px-4 py-3">
         {/* Logo */}
         <div className="flex items-center gap-2">
-          <Lock className="text-primary" size={24} />
+          <img
+            src="/icon.png"
+            alt="CryptiFY logo"
+            className="w-8 h-8 object-contain rounded-md"
+          />
           <span className="font-bold text-lg">CryptiFY</span>
         </div>
 
