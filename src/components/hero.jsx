@@ -119,6 +119,7 @@ export default function Hero() {
                 <a
                   href="https://github.com/beeleza/cryptify"
                   className="btn btn-outline btn-lg gap-2"
+                  target="_blank"
                 >
                   <svg
                     className="w-5 h-5"
